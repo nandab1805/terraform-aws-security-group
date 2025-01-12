@@ -1,7 +1,7 @@
 variable "project_name" {
  
 }
-variable "envinorment" {
+variable "environment" {
   
 }
 variable "sg_name" {
